@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="focus_teal">#2DD4BF</color>
+    <color name="focus_teal_dark">#0F766E</color>
+    <color name="focus_indigo">#6366F1</color>
+    <color name="focus_amber">#F59E0B</color>
+    <color name="focus_bg_dark">#12131A</color>
+    <color name="focus_surface_dark">#1C1E27</color>
+    <color name="focus_bg_light">#FAFAF9</color>
+    <color name="focus_surface_light">#FFFFFF</color>
+</resources>
